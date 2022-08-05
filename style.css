@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header section start */
+.active{
+    font-size: 20px;
+} 
+.active:hover{
+    color: #fb6930 !important;
+}
+.logo-name{
+    font-size: 30px !important;
+    font-weight: 900;
+}
+/* header section start */
+.about-content-header{
+    font-size: 40px;
+    font-weight:700;
+}
+.about-content{
+    font-size: 20px;
+}
+.learnbtn{
+    border: 1px solid #fb6930 !important;
+    background-color: #fb6930 !important;
+    height: 50px;
+    width: 200px;
+    font-size: 20px!important;
+    color: white !important;
+    transition: 0.3s !important;
+}
+.learnbtn:hover{
+    color: black !important;
+    background-color: white !important;
+    border:1px solid #fb6930 !important;
+    transition: 0.3s !important;
+
+}
+.exper{
+   background-color: #37364B;
+
+}
+.card-1{
+   margin-top: 5rem !important;
+   
+   border: 1px solid rgb(114, 112, 112) !important;
+   transition: 0.8s;
+}
+.card-1:hover{
+    border: 2px solid rgb(114, 112, 112) !important ;
+    box-shadow: 0px 0px 30px 5px;
+    transition: 0.8s;
+
+    
+}
+.Education{
+    background-image: url(https://hossainfreelancer.com/themechoices/daizy/images/education/education-bg.jpg);
+    height: 750px;
+    width: 100%;
+}
+.portfolio{
+    border: 1px solid white !important;
+    background-color: rgb(19, 18, 18) !important;
+    height: 50px;
+    width: 200px;
+    font-size: 20px!important;
+    color: white !important;
+    transition: 0.3s !important;
+}
+
+.portfolio:hover{
+    border: 1px solid #fb6930!important;
+    background-color:#fb6930!important;
+    height: 50px;
+    width: 200px;
+    font-size: 20px!important;
+    color: white !important;
+    transition: 0.3s !important;
+}
+.port-tittel{
+    margin-top: 13rem;
+    font-size: 30px;
+}
+
+.work{
+    background-color: #444;
+    padding-top: 7rem;
+    padding-bottom: 10rem;
+}
+.see{
+    color: black;
+}
+.see:hover{
+    color:#fb6930;
+    
+}
+.contact{
+     background-image: url(https://hossainfreelancer.com/themechoices/daizy/images/contact/contact-bg.jpg);
+    height: 50rem;
+}
+.icon{
+    font-size: 30px;
+    padding-top: 1rem;
+}
+.send{
+    border: 1px solid white !important;
+    font-size: 30px !important;
+    width: 200px;
+    height: 4rem;
+    transition: 0.3s !important;
+}
+.send:hover{
+    background-color: #fb6930;
+    border: 1px solid #fb6930 !important;
+    border: none !important;
+    transition: 0.3s;
+    width: 200px;
+    height: 4rem;
+}
+
+
+
+  
